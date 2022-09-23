@@ -1,0 +1,37 @@
+#header{
+    background-color: aquamarine;
+    
+}
+#menu{
+    background-color: burlywood;
+   
+}
+#sidebar{
+    background-color: lightblue;
+   
+}
+#content{
+    background-color: aliceblue;
+   
+}
+#footer{
+    background-color: aquamarine;
+   
+}
+body{
+    background-color: grey;
+}
+#menu li{
+    display: inline;
+   
+}
+#menu ul{
+    margin: 0px;
+}
+li{
+    list-style: none;
+   
+}
+.container{
+    margin: 100px auto 0px;
+}
